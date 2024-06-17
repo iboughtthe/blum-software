@@ -1,5 +1,5 @@
 # BLUM AUTOCLICKER SOFTWARE
-![BLUMBANNER](https://github.com/iboughtthe/blum-software/assets/158126068/386a8259-7e33-412a-bc14-50fd1e1744a6)
+![img](https://github.com/iboughtthe/blum-software/assets/158126068/fa3bc7a8-d7ad-4233-8ac0-304821baf08e)
 
 **BLUM** autoclicker for for automating mining, playing games and completing tasks.
 
